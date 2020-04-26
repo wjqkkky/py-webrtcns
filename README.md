@@ -1,4 +1,5 @@
-# py-webrtcns
+
+ py-webrtcns
 Python interface to the WebRTC Noise Suppression  
 
 This repertory contains the pre-compiled `.so` files, which can be used directly.  
@@ -16,3 +17,5 @@ The pre-compiled '.so' files in `build/lib.linux-x86_64-2.7`, named `_simple_ns.
 ## How to use the `.so` files  
 
 You can use `test.py` to test the WebRTC Noise Suppression basic functions.
+
+`demo`中的so为适配8k语音流的。
